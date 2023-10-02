@@ -1,0 +1,7 @@
+streamlit
+watchdog
+numpy
+plotly
+statsmodels
+pandas
+requests
